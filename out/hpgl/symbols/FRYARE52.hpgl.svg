@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="566.92902"
+   height="81.1502"
+   viewBox="0 0 566.929 81.150196"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="FRYARE52.hpgl.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     id="namedview18"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2.3389172"
+     inkscape:cx="283.4645"
+     inkscape:cy="-186.62482"
+     inkscape:window-width="1495"
+     inkscape:window-height="970"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg16" />
+  <g
+     id="g2"
+     transform="translate(0,-219.65594)" />
+  <g
+     style="fill:none;stroke:#000000;stroke-width:1mm"
+     id="g4"
+     transform="translate(0,-219.65594)" />
+  <g
+     style="fill:none;stroke:#000000;stroke-width:4mm"
+     id="g14"
+     transform="translate(0,-219.65594)">
+    <path
+       d="M 68.651,257.111 H 0"
+       id="path6" />
+    <path
+       d="m 391.092,257.111 h 64.666"
+       id="path8" />
+    <path
+       d="M 303.396,227.215 H 126.894 v 65.994 l 176.28,-0.886 44.513,-21.924 0.221,-22.146 -44.512,-21.038"
+       id="path10" />
+    <path
+       d="m 501.599,258.219 h 65.33"
+       id="path12" />
+  </g>
+</svg>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="578.02399"
+   height="245.75575"
+   viewBox="0 0 578.02397 245.75575"
+   version="1.1"
+   id="svg20"
+   sodipodi:docname="FSHGRD01.hpgl.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs24" />
+  <sodipodi:namedview
+     id="namedview22"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2.3389172"
+     inkscape:cx="289.02263"
+     inkscape:cy="-777.06897"
+     inkscape:window-width="1495"
+     inkscape:window-height="970"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg20" />
+  <g
+     id="g2"
+     transform="translate(5.7653498,-892.10715)" />
+  <g
+     style="fill:none;stroke:#000000;stroke-width:1mm"
+     id="g4"
+     transform="translate(5.7653498,-892.10715)" />
+  <g
+     style="fill:none;stroke:#000000;stroke-width:4mm"
+     id="g18"
+     transform="translate(5.7653498,-892.10715)">
+    <path
+       d="M 87.8903,1017.289 9.3212995,920.746"
+       id="path6" />
+    <path
+       d="m 88.9173,1018.829 -89.35300048,88.84"
+       id="path8" />
+    <path
+       d="m 89.9443,1017.289 39.541,-42.623 49.812,-35.946 64.19,-28.758 71.38,-10.27 64.704,3.081 71.379,14.379 61.11,28.757 42.622,31.838 10.784,22.082"
+       id="path10" />
+    <path
+       d="m 86.8633,1016.262 61.109,50.325 74.974,42.622 78.569,17.46 57.001,3.595 61.109,-10.271 57.002,-21.054 46.217,-43.136 35.946,-50.325"
+       id="path12" />
+    <path
+       d="m 413.4633,909.449 -23.622,61.623 v 85.758 l 42.623,61.623"
+       id="path14" />
+    <path
+       d="m 566.4933,999.315 -8.73,7.19"
+       id="path16" />
+  </g>
+</svg>

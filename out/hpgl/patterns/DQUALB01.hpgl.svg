@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="582.32532"
+   height="410.84094"
+   viewBox="0 0 582.3253 410.84094"
+   version="1.1"
+   id="svg38"
+   sodipodi:docname="DQUALB01.hpgl.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs42" />
+  <sodipodi:namedview
+     id="namedview40"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.8177313"
+     inkscape:cx="291.0221"
+     inkscape:cy="-476.14297"
+     inkscape:window-width="1495"
+     inkscape:window-height="970"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg38" />
+  <g
+     id="g2"
+     transform="translate(7.5590553,-673.95894)" />
+  <g
+     style="fill:none;stroke:#000000;stroke-width:1mm"
+     id="g4"
+     transform="translate(7.5590553,-673.95894)" />
+  <g
+     style="fill:none;stroke:#000000;stroke-width:4mm"
+     id="g36"
+     transform="translate(7.5590553,-673.95894)">
+    <path
+       d="m 404.1772,751.674 h 100.558"
+       id="path6" />
+    <path
+       d="m 485.0242,711.919 -60.468,80.178"
+       id="path8" />
+    <path
+       d="m 424.8902,711.919 60.134,79.844"
+       id="path10" />
+    <path
+       d="m 229.7892,751.674 h 100.557"
+       id="path12" />
+    <path
+       d="m 310.6362,711.919 -60.468,80.178"
+       id="path14" />
+    <path
+       d="m 250.5022,711.919 60.134,79.844"
+       id="path16" />
+    <path
+       d="M 53.062204,753.344 H 153.6192"
+       id="path18" />
+    <path
+       d="M 133.9092,713.589 73.441204,793.768"
+       id="path20" />
+    <path
+       d="M 73.775204,713.589 133.9092,793.434"
+       id="path22" />
+    <path
+       d="m 228.4532,882.966 h 100.557"
+       id="path24" />
+    <path
+       d="m 309.2992,843.211 -60.468,80.179"
+       id="path26" />
+    <path
+       d="m 249.1652,843.211 60.134,79.845"
+       id="path28" />
+    <path
+       d="m 10.300204,746.997 -10.02200021,-27.06 3.67500001,-18.041 6.3470002,-12.695 15.702,-6.681 10.356,-1.002 H 513.0862 l 27.061,2.338 16.704,7.684 6.681,9.354 3.675,10.022"
+       id="path30" />
+    <path
+       d="m 567.2072,710.916 v 8.018 12.695 l -6.347,10.357 -229.512,305.346 -9.02,10.357 -9.02,10.356 -9.02,5.345 -6.347,1.003 -6.348,2.672 -11.692,-1.336"
+       id="path32" />
+    <path
+       d="m 279.9012,1075.729 -6.348,-1.336 -13.029,-3.675 -6.347,-5.345 -6.682,-7.684 -7.684,-9.02 L 10.300204,746.997"
+       id="path34" />
+  </g>
+</svg>

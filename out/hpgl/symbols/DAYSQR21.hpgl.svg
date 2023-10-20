@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="347.9711"
+   height="582.05426"
+   viewBox="0 0 347.9711 582.05424"
+   version="1.1"
+   id="svg32"
+   sodipodi:docname="DAYSQR21.hpgl.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs36" />
+  <sodipodi:namedview
+     id="namedview34"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.2682364"
+     inkscape:cx="174.25773"
+     inkscape:cy="-445.10629"
+     inkscape:window-width="1495"
+     inkscape:window-height="970"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg32" />
+  <g
+     id="g2"
+     transform="translate(7.5590553,-728.70194)" />
+  <g
+     style="fill:none;stroke:#000000;stroke-width:1mm"
+     id="g4"
+     transform="translate(7.5590553,-728.70194)" />
+  <g
+     style="fill:none;stroke:#000000;stroke-width:4mm"
+     id="g30"
+     transform="translate(7.5590553,-728.70194)">
+    <path
+       d="m 0,736.261 v 332.853 H 332.853 V 736.261 H 0"
+       id="path6" />
+    <path
+       d="m 166.842,1069.114 v 126.999"
+       id="path8" />
+    <path
+       d="m 221.625,1249.236 -0.205,4.703 -0.614,4.666 -1.019,4.596 -1.416,4.489 -1.801,4.348 -2.173,4.175 -2.529,3.97 -2.865,3.734 -3.18,3.47 -3.471,3.18"
+       id="path10" />
+    <path
+       d="m 202.352,1290.567 -3.734,2.866 -3.97,2.529 -4.175,2.173 -4.348,1.801 -4.489,1.416 -4.595,1.018 -4.667,0.615 -4.702,0.205 -4.703,-0.205 -4.666,-0.615"
+       id="path12" />
+    <path
+       d="m 158.303,1302.37 -4.596,-1.018 -4.489,-1.416 -4.348,-1.801 -4.175,-2.173 -3.97,-2.529 -3.734,-2.866 -3.47,-3.18 -3.18,-3.47 -2.866,-3.734 -2.529,-3.97"
+       id="path14" />
+    <path
+       d="m 120.946,1276.213 -2.173,-4.175 -1.801,-4.348 -1.416,-4.489 -1.018,-4.596 -0.615,-4.666 -0.205,-4.703 0.205,-4.702 0.615,-4.667 1.018,-4.595 1.416,-4.489"
+       id="path16" />
+    <path
+       d="m 116.972,1230.783 1.801,-4.348 2.173,-4.176 2.529,-3.969 2.866,-3.734 3.18,-3.471 3.47,-3.18 3.734,-2.865 3.97,-2.529 4.175,-2.173 4.348,-1.802"
+       id="path18" />
+    <path
+       d="m 149.218,1198.536 4.489,-1.415 4.596,-1.019 4.666,-0.614 4.703,-0.205 4.702,0.205 4.667,0.614 4.595,1.019 4.489,1.415 4.348,1.802 4.175,2.173"
+       id="path20" />
+    <path
+       d="m 194.648,1202.511 3.97,2.529 3.734,2.865 3.471,3.18 3.18,3.471 2.865,3.734 2.529,3.969 2.173,4.176 1.801,4.348 1.416,4.489 1.019,4.595"
+       id="path22" />
+    <path
+       d="m 220.806,1239.867 0.614,4.667 0.205,4.702 -0.205,4.703"
+       id="path24" />
+    <path
+       d="m 44.823,1249.236 h 69.725"
+       id="path26" />
+    <path
+       d="M 221.625,1249.236 H 292.18"
+       id="path28" />
+  </g>
+</svg>

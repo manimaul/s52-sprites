@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="566.92902"
+   height="142.01401"
+   viewBox="0 0 566.929 142.01401"
+   version="1.1"
+   id="svg34"
+   sodipodi:docname="RCRTCL01.hpgl.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs38" />
+  <sodipodi:namedview
+     id="namedview36"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2.3389172"
+     inkscape:cx="283.4645"
+     inkscape:cy="-355.07883"
+     inkscape:window-width="1495"
+     inkscape:window-height="970"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg34" />
+  <g
+     id="g2"
+     transform="translate(0,-419.36992)" />
+  <g
+     style="fill:none;stroke:#000000;stroke-width:1mm"
+     id="g4"
+     transform="translate(0,-419.36992)" />
+  <g
+     style="fill:none;stroke:#000000;stroke-width:4mm"
+     id="g32"
+     transform="translate(0,-419.36992)">
+    <path
+       d="m 246.202,490.191 h 74.771"
+       id="path6" />
+    <path
+       d="m 122.486,490.191 h 74.771"
+       id="path8" />
+    <path
+       d="M 369.672,490.191 H 446.41"
+       id="path10" />
+    <path
+       d="m 492.158,490.191 h 74.771"
+       id="path12" />
+    <path
+       d="M 0,490.191 H 73.787"
+       id="path14" />
+    <path
+       d="m 134.046,513.311 -37.385,20.66 41.074,20.66"
+       id="path16" />
+    <path
+       d="m 429.931,425.996 37.632,20.661 -34.926,21.398"
+       id="path18" />
+    <path
+       d="m 266.37,448.132 h 51.651"
+       id="path20" />
+    <path
+       d="m 340.649,448.132 h 49.683"
+       id="path22" />
+    <path
+       d="m 414.682,447.149 h 50.667"
+       id="path24" />
+    <path
+       d="m 98.382,533.479 h 48.946"
+       id="path26" />
+    <path
+       d="M 170.693,533.479 H 221.36"
+       id="path28" />
+    <path
+       d="m 245.71,533.479 h 49.929"
+       id="path30" />
+  </g>
+</svg>

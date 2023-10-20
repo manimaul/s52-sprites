@@ -1,0 +1,1 @@
+S52 symbols from [OpenCPN chartsymbols.xml](https://github.com/OpenCPN/OpenCPN/blob/master/data/s57data/chartsymbols.xml) extracted as HPGL and transformed to SVG

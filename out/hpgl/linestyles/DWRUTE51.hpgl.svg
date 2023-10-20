@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="566.92902"
+   height="71.998108"
+   viewBox="0 0 566.929 71.998106"
+   version="1.1"
+   id="svg24"
+   sodipodi:docname="DWRUTE51.hpgl.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs28" />
+  <sodipodi:namedview
+     id="namedview26"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2.3389172"
+     inkscape:cx="283.4645"
+     inkscape:cy="-160.97192"
+     inkscape:window-width="1495"
+     inkscape:window-height="970"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg24" />
+  <g
+     id="g2"
+     transform="translate(0,-190.02394)" />
+  <g
+     style="fill:none;stroke:#000000;stroke-width:1mm"
+     id="g4"
+     transform="translate(0,-190.02394)" />
+  <g
+     style="fill:none;stroke:#000000;stroke-width:4mm"
+     id="g22"
+     transform="translate(0,-190.02394)">
+    <path
+       d="M 0,211.616 H 112.263"
+       id="path6" />
+    <path
+       d="M 453.917,211.616 H 566.929"
+       id="path8" />
+    <path
+       d="m 484.977,212.365 30.124,30.124 31.808,-31.434"
+       id="path10" />
+    <path
+       d="M 303.485,210.868 H 415.748"
+       id="path12" />
+    <path
+       d="m 328.931,212.739 31.059,30.872 30.686,-30.872"
+       id="path14" />
+    <path
+       d="M 25.072,213.3 54.26,242.301 85.133,211.99"
+       id="path16" />
+    <path
+       d="m 150.245,197.583 v 56.88 h 19.459 l 18.711,-8.419 v -40.415 l -19.272,-8.046 h -18.898"
+       id="path18" />
+    <path
+       d="m 211.055,196.835 14.22,57.815 13.284,-57.815 16.091,57.067 12.349,-57.067"
+       id="path20" />
+  </g>
+</svg>
